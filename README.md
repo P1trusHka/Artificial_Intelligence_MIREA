@@ -17,5 +17,4 @@ Please use this information solely for educational purposes.
 
 To make any edits, write to me in [telegram](https://t.me/directorpg).
 
-# They took part in the creation:
-- [rayzor]()
+
